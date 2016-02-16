@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./derationequaein00glasgoog_0005.png"; bbox 0 0 2910 4980; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 33 217 478 412">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 33 217 478 412">
+     <span class='ocr_line' id='line_1_1' title="bbox 33 217 478 412; baseline -0.02 -45"><span class='ocrx_word' id='word_1_1' title='bbox 33 217 256 412; x_wconf 52' lang='grc' dir='ltr'>(Μ</span> <span class='ocrx_word' id='word_1_2' title='bbox 295 224 478 357; x_wconf 55' lang='lat' dir='ltr'><strong><em>w</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 408 797 944 997">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 408 797 944 997">
+     <span class='ocr_line' id='line_1_2' title="bbox 408 797 944 916; baseline 0.021 -22"><span class='ocrx_word' id='word_1_3' title='bbox 408 797 590 896; x_wconf 43' lang='lat' dir='ltr'>Harvard&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 614 841 754 911; x_wconf 66' lang='lat'><em>0011020</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 791 846 944 916; x_wconf 65' lang='lat' dir='ltr'><strong>mbram</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 547 927 827 997; baseline 0.021 -14"><span class='ocrx_word' id='word_1_6' title='bbox 547 927 601 992; x_wconf 79' lang='lat' dir='ltr'>By</span> <span class='ocrx_word' id='word_1_7' title='bbox 621 931 827 997; x_wconf 73' lang='lat' dir='ltr'>Exohange.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 551 1030 837 1093">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 551 1030 837 1093">
+     <span class='ocr_line' id='line_1_4' title="bbox 551 1030 837 1093; baseline 0.017 -5"><span class='ocrx_word' id='word_1_8' title='bbox 551 1030 593 1089; x_wconf 88' lang='grc'>19</span> <span class='ocrx_word' id='word_1_9' title='bbox 616 1032 694 1090; x_wconf 77' lang='lat' dir='ltr'><strong>Oet.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 721 1035 837 1093; x_wconf 87' lang='grc'><strong>1895.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1460 4980">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1460 4980">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1460 4980; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1460 4980; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
